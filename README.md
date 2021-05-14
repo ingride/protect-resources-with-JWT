@@ -2,7 +2,7 @@
 
 # What you'll learn ✨ 
 * What are JWT 
-* What are the most common use cases for a JWT 
+* What are the most common use cases for JWT 
 * Authentication and Authorization use-cases with JWT
 * Where JWT really shine - authorization 
 * Practical: Integrate resource protection into an app
